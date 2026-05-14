@@ -1,52 +1,69 @@
+<div align="center">
+
 # Agustin Gimenez
 
-<p>
-  <strong>Backend engineer focused on AI systems, automation, internal platforms, and operational scale.</strong>
-</p>
+### Building AI systems, backend platforms, and automation that hold up under real operational pressure
 
-<p>
-  I build software that reduces friction, hardens workflows, and turns messy operational processes into reliable systems.
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Agustin_Gimenez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gimenez-agustin)
+[![Location](https://img.shields.io/badge/Buenos_Aires-Argentina-111111?style=for-the-badge)](#)
+[![Company](https://img.shields.io/badge/LenoxHR-Engineering-0F766E?style=for-the-badge)](#)
 
-<p>
-  <a href="https://github.com/agsgimenez/internal-mcp-pages">Public work</a> |
-  <a href="https://www.linkedin.com/in/gimenez-agustin">LinkedIn</a>
-</p>
+</div>
 
-## What I Build
+---
 
-- AI-assisted internal tools for support, operations, and technical teams
-- Backend services and integrations that prioritize reliability over noise
-- CI/CD workflows, automation layers, and developer experience improvements
-- Documentation systems that make complex operations easier to execute
+## Positioning
+
+I design and build systems that remove operational drag.
+
+That usually means:
+
+- backend services that are hard to break
+- AI-assisted internal tools that solve concrete team problems
+- automation layers that reduce repetitive work
+- delivery workflows that increase release confidence instead of ceremony
+
+I care less about novelty and more about leverage, clarity, and reliability.
 
 ## Current Focus
 
-- Designing practical AI workflows that fit real engineering teams
-- Building internal MCP-based tooling and operational interfaces
-- Improving delivery pipelines, validation loops, and release confidence
-- Converting tacit team knowledge into reusable systems and documentation
+- AI workflows for internal technical and operational teams
+- MCP-based tooling and support interfaces
+- CI/CD hardening, validation loops, and release discipline
+- documentation as an operational system, not as an afterthought
 
-## Working Style
+## What I Bring
 
-- Ship systems that survive contact with production
-- Prefer leverage, clarity, and maintainability over novelty
-- Reduce operational drag before adding architectural complexity
-- Treat documentation, automation, and code quality as one system
+| Area | Contribution |
+| --- | --- |
+| Backend Engineering | Services, integrations, APIs, and platform reliability |
+| AI Systems | Practical copilots, internal assistants, and workflow automation |
+| Operations | Process reduction, tooling, and support acceleration |
+| Delivery | CI/CD improvements, verification loops, and safer releases |
+| Documentation | Turning tribal knowledge into reusable systems |
 
-## Selected Areas
+## Public Work
+
+### [internal-mcp-pages](https://github.com/agsgimenez/internal-mcp-pages)
+
+Public repository tied to internal MCP-related work.
+
+This profile will expand as I publish more of the systems, tooling, and patterns behind the work.
+
+## Engineering Principles
+
+- Build for the environment that actually exists
+- Reduce friction before adding complexity
+- Prefer robust systems over impressive demos
+- Treat code, automation, and documentation as one delivery surface
+
+## Scope
 
 ```text
 AI systems
 Internal tooling
 Backend engineering
-CI/CD and automation
-Technical documentation
+Automation
 Operational design
+Technical documentation
 ```
-
-## Profile
-
-- Based in Buenos Aires, Argentina
-- Building at LenoxHR
-- Always interested in high-leverage engineering problems

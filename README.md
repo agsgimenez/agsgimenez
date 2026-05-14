@@ -112,16 +112,27 @@ That means:
 | Documentation | endpoint standardization, process clarity, operational traceability |
 | Cloud / Infra | hosting, domains, mail workers, Cloudflare, Azure |
 
-## Professional Arc
+## Where I Create Leverage
 
 ```mermaid
-timeline
-    title Technical progression
-    2018 : Technical intern at Buenos Aires City Government
-    2019 : Support and help desk at LenoxHR
-    2019 : Junior tester at LenoxHR
-    2022 : IT Lead / DBA / QA / Help Desk leadership
-    2026 : Building AI-assisted and operational systems with stronger leverage
+mindmap
+  root((Leverage))
+    Data
+      SQL tuning
+      query reliability
+      execution plans
+    Delivery
+      QA strategy
+      release confidence
+      acceptance discipline
+    Operations
+      support acceleration
+      incident reduction
+      SLA focus
+    Systems
+      internal tooling
+      workflow automation
+      documentation as infrastructure
 ```
 
 ## Principles

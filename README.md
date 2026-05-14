@@ -1,95 +1,150 @@
 <div align="center">
 
-# Agustin Gimenez
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:0a66c2&height=220&section=header&text=Agustin%20Gimenez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20systems%20%7C%20Backend%20platforms%20%7C%20Technical%20operations&descAlignY=58" alt="Header banner" />
 
-### AI systems • backend platforms • automation under real operational pressure
+# Systems builder with an operations mindset
+
+<p>
+  I build backend, AI-assisted, and operational systems that reduce friction, improve reliability, and survive production.
+</p>
 
 <p>
   <a href="https://www.linkedin.com/in/gimenez-agustin">
     <img src="https://img.shields.io/badge/LinkedIn-Agustin_Gimenez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/Buenos_Aires-Argentina-161B22?style=for-the-badge" alt="Buenos Aires, Argentina" />
-  <img src="https://img.shields.io/badge/LenoxHR-Engineering-0F766E?style=for-the-badge" alt="LenoxHR Engineering" />
+  <img src="https://img.shields.io/badge/Buenos_Aires-Argentina-111827?style=for-the-badge" alt="Buenos Aires, Argentina" />
+  <img src="https://img.shields.io/badge/LenoxHR-IT%20Lead-0F766E?style=for-the-badge" alt="LenoxHR IT Lead" />
 </p>
 
 </div>
 
-> I build systems that remove friction, survive production, and make teams faster without making the stack noisier.
+---
 
-<br />
+## Snapshot
 
-## Core Focus
+```text
+Role      : IT Lead | Technical Operations | QA | SQL Server / Azure SQL
+Focus     : AI workflows, backend reliability, support acceleration, delivery confidence
+Strength  : turning messy operational realities into systems that scale
+Approach  : clarity, traceability, hardening, and execution over noise
+```
+
+## Impact
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>40%</h3>
+      <p>reduction in SQL processing times through tuning, indexing, and redesign</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>35%</h3>
+      <p>drop in recurring incidents through documentation and standardized processes</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>2022 - now</h3>
+      <p>leading IT operations, QA direction, support flow, and technical delivery at LenoxHR</p>
+    </td>
+  </tr>
+</table>
+
+## What I Actually Build
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### What I Build
+### Systems
 
-- AI-assisted internal tools
 - Backend services and integrations
-- Automation for support and operations
-- CI/CD workflows with real verification
-- Documentation systems that teams actually use
+- SQL Server and Azure SQL optimization
+- AI-assisted internal workflows
+- Operational tooling for support and QA
+- CI/CD and validation loops
 
   </td>
   <td width="50%" valign="top">
 
-### What I Optimize For
+### Outcomes
 
-- Reliability over novelty
-- Leverage over ceremony
-- Clarity over performative complexity
-- Operational speed without fragility
-- Systems that hold up after handoff
+- Faster and safer technical delivery
+- Lower operational drag
+- Better traceability across teams
+- Stronger QA and acceptance discipline
+- Documentation that becomes execution, not shelfware
 
   </td>
   </tr>
 </table>
 
-## Operating Themes
+## Operating Model
 
-```text
-Design for the environment that actually exists.
-Reduce operational drag before adding architectural elegance.
-Treat code, automation, and documentation as one system.
-Ship things that still make sense six months later.
+```mermaid
+flowchart LR
+    A[Operational pain] --> B[Map the failure points]
+    B --> C[Design a clearer workflow]
+    C --> D[Automate the repetitive path]
+    D --> E[Harden validation and QA]
+    E --> F[Document the system]
+    F --> G[Scale with less friction]
 ```
 
 ## Current Direction
 
-I am focused on practical AI workflows for internal teams, MCP-based tooling, backend platforms, and delivery systems that increase release confidence instead of process theater.
+I work at the intersection of technical operations, backend systems, QA rigor, and applied AI.
 
-That includes:
+That means:
 
-- internal assistants and operator tooling
-- support and operations acceleration
-- validation loops and release hardening
-- converting tacit knowledge into reusable workflows
+- designing practical AI workflows for internal teams
+- improving support and help desk throughput
+- formalizing QA strategy and acceptance criteria
+- coordinating delivery between business, support, and development
+- making data, process, and documentation more reliable
 
-## Current Output
+## Experience Surface
 
-Most of my strongest work lives in production systems, internal tooling, and operational platforms.
-
-This profile will grow as I publish more reusable pieces, technical patterns, and public-facing implementations.
-
-## Build Profile
-
-| Area | Edge |
+| Area | Depth |
 | --- | --- |
-| Backend Engineering | APIs, services, integrations, platform stability |
-| AI Systems | Internal copilots, workflow automation, applied agent tooling |
-| Operations | Tooling that reduces repetition and response time |
-| Delivery | CI/CD, safer releases, tighter verification loops |
-| Documentation | Turning tribal knowledge into execution systems |
+| SQL Server / Azure SQL | tuning, indexes, execution plans, query reliability |
+| QA Leadership | test strategy, defect flow, acceptance criteria, DRE mindset |
+| Help Desk Operations | SLA, prioritization, diagnosis, escalation discipline |
+| Technical Delivery | cross-team coordination, validation, release readiness |
+| Documentation | endpoint standardization, process clarity, operational traceability |
+| Cloud / Infra | hosting, domains, mail workers, Cloudflare, Azure |
+
+## Professional Arc
+
+```mermaid
+timeline
+    title Technical progression
+    2018 : Technical intern at Buenos Aires City Government
+    2019 : Support and help desk at LenoxHR
+    2019 : Junior tester at LenoxHR
+    2022 : IT Lead / DBA / QA / Help Desk leadership
+    2026 : Building AI-assisted and operational systems with stronger leverage
+```
+
+## Principles
+
+> Build for the environment that actually exists.
+>
+> Reduce friction before adding complexity.
+>
+> Treat code, operations, QA, and documentation as one system.
 
 ## Scope
 
 <p>
-  <img src="https://img.shields.io/badge/AI_Systems-111827?style=flat-square" alt="AI Systems" />
-  <img src="https://img.shields.io/badge/Internal_Tooling-111827?style=flat-square" alt="Internal Tooling" />
-  <img src="https://img.shields.io/badge/Backend_Engineering-111827?style=flat-square" alt="Backend Engineering" />
-  <img src="https://img.shields.io/badge/Automation-111827?style=flat-square" alt="Automation" />
-  <img src="https://img.shields.io/badge/Operational_Design-111827?style=flat-square" alt="Operational Design" />
-  <img src="https://img.shields.io/badge/Technical_Documentation-111827?style=flat-square" alt="Technical Documentation" />
+  <img src="https://img.shields.io/badge/AI_Workflows-0f172a?style=flat-square" alt="AI Workflows" />
+  <img src="https://img.shields.io/badge/Backend_Systems-0f172a?style=flat-square" alt="Backend Systems" />
+  <img src="https://img.shields.io/badge/SQL_Server-0f172a?style=flat-square" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Azure_SQL-0f172a?style=flat-square" alt="Azure SQL" />
+  <img src="https://img.shields.io/badge/QA_Leadership-0f172a?style=flat-square" alt="QA Leadership" />
+  <img src="https://img.shields.io/badge/Help_Desk_Ops-0f172a?style=flat-square" alt="Help Desk Ops" />
+  <img src="https://img.shields.io/badge/Technical_Delivery-0f172a?style=flat-square" alt="Technical Delivery" />
+  <img src="https://img.shields.io/badge/Documentation_Systems-0f172a?style=flat-square" alt="Documentation Systems" />
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a66c2,50:0f766e,100:0f172a&height=120&section=footer" alt="Footer banner" />
+</div>
